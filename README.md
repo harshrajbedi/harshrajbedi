@@ -40,9 +40,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px"                                                                                src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/debian.svg" />
-<img align="left" alt="Terminal" width="26px"                                                                                src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/xcode.svg" />
-<img align="left" alt="Terminal" width="26px"                                                                                src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/vmware.svg" />
+<img align="left" alt="Debian" width="26px"                                                                                  src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/debian.svg" />
+<img align="left" alt="Xcode" width="26px"                                                                                       src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/xcode.svg" />
+<img align="left" alt="Vmware" width="26px"                                                                                 src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/vmware.svg" />
+<img align="left" alt="Cisco" width="26px"                                                                                     src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/cisco.svg" />
 
 <br />
 <br />
