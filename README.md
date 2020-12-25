@@ -1,6 +1,6 @@
 ### Hi there, I'm [Harshraj Singh](https://swati-gwc.github.io/) :octocat:</br></br> <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
 
-<img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="290">  `In Progress`
+`In Progress`<img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="290">  
 
 [![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    
 
