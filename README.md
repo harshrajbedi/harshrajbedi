@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshraj Singh 👋      <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
 
-[![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    [![Website](https://img.shields.io/website?label=Twitter&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://twitter.com/rajharshbedi)
+[![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    [![Website](https://img.shields.io/website?label=Twitter&style=for-the-badge&url=https%3A%2F%2Fhttps://twitter.com/rajharshbedi)](https://twitter.com/rajharshbedi)
 
 ## I'm a Cyber Security Student and Developer!!
 
