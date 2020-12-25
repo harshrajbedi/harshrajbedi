@@ -1,4 +1,4 @@
-### Hi there, I'm Harshraj Singh 👋      <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
+### Hi there, I'm [Harshraj Singh](https://swati-gwc.github.io/) :octocat:</br></br>)       <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
 
 [![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    
 
