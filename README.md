@@ -9,11 +9,20 @@
 
 ### Apple Music 🎧
 
-### Connect with me:
+### Find me on the Web:
 
-[<img align="left" alt="rajharshbedi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="harshraj-singh-bedi-162841181 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="harshbedi.in | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://twitter.com/rajharshbedi">
+  <img align="left" alt="Harshraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harshraj-singh-bedi-162841181/">
+  <img align="left" alt="Harshraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/harshbedi.in">
+  <img align="left" alt="Harshraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/wiredshark">
+  <img align="left" alt="Harshraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a></br></br>
 
 <br />
 
