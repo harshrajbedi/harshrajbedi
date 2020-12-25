@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning everything How to Secure Networks
 - 👯 I’m looking to collaborate with other content creators
 
-### Apple Music <a href="https://music.apple.com/in/profile/rajharshbedi">
+### Apple Music 
+
+<a href="https://music.apple.com/in/profile/rajharshbedi">
   <img align="left" alt="Apple Music" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/itunes.svg" />
 </a>
 
