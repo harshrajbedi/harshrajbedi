@@ -1,8 +1,6 @@
-### Hi there, I'm Harshraj Singh 👋
+### Hi there, I'm Harshraj Singh 👋      <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
 
 [![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)
-<a href="https://twitter.com/rajharshbedi?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rajharshbedi</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## I'm a Cyber Security Student and Developer!!
 
@@ -11,11 +9,8 @@
 
 ### Apple Music 🎧
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngio.com%2Fimages%2Fpng-a1730502.html&psig=AOvVaw2uCzjsmlbMf340E4YTatG5&ust=1608956715957000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCLq4al6O0CFQAAAAAdAAAAABAD" alt="rajharshbedi Apple Music" width="350" />](https://music.apple.com/in/profile/rajharshbedi)
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rajharshbedi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="harshraj-singh-bedi-162841181 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="harshbedi.in | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
