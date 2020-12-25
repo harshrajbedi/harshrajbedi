@@ -10,6 +10,9 @@
 
 ### Find me on the Web:
 
+<a href="">
+  <img align="left" alt="Harshraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/discord.svg" />
+</a>
 <a href="https://twitter.com/rajharshbedi">
   <img align="left" alt="Harshraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
