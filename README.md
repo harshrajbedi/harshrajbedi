@@ -1,13 +1,15 @@
 ### Hi there, I'm Harshraj Singh 👋      <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
 
-[![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    [![Website](https://img.shields.io/website?label=Twitter&style=for-the-badge&url=https%3A%2F%2Fhttps://twitter.com/rajharshbedi)](https://twitter.com/rajharshbedi)
+[![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    
 
 ## I'm a Cyber Security Student and Developer!!
 
 - 🌱 I’m currently learning everything How to Secure Networks
 - 👯 I’m looking to collaborate with other content creators
 
-### Apple Music 🎧
+### Apple Music <a href="https://music.apple.com/in/profile/rajharshbedi">
+  <img align="left" alt="Apple Music" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/itunes.svg" />
+</a>
 
 ### Find me on the Web:
 
