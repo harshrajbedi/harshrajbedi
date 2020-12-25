@@ -7,12 +7,6 @@
 - 🌱 I’m currently learning everything How to Secure Networks
 - 👯 I’m looking to collaborate with other content creators
 
-### Apple Music 
-
-<a href="https://music.apple.com/in/profile/rajharshbedi">
-  <img align="left" alt="Apple Music" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/itunes.svg" />
-</a>
-
 
 ### Find me on the Web:
 
@@ -27,6 +21,9 @@
 </a>
 <a href="https://www.hackerrank.com/wiredshark">
   <img align="left" alt="Harshraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://music.apple.com/in/profile/rajharshbedi">
+  <img align="left" alt="Apple Music" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/itunes.svg" />
 </a></br></br>
 
 <br />
