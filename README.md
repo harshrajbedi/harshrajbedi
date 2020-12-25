@@ -7,7 +7,7 @@
 ## I'm a Cyber Security Student and Developer!!
 
 - 🌱 I’m currently learning How to Secure Networks
-- 👯 I’m looking to collaborate with other content creators
+- Busy in Making and Understanding How Network Topologies work!
 
 
 ### Find me on the Web:
