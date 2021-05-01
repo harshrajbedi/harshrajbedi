@@ -1,4 +1,4 @@
-### Hi there, I'm Harshraj Singh :octocat:</br></br> <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
+### Hi there, I'm Harshraj Singh :octocat:</br></br> 
 
 <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="290">  
 
