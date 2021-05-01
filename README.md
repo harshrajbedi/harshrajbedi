@@ -1,4 +1,4 @@
-### Hi there, I'm [Harshraj Singh](https://swati-gwc.github.io/) :octocat:</br></br> <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
+### Hi there, I'm Harshraj Singh :octocat:</br></br> <img src="https://komarev.com/ghpvc/?username=harshrajbedi" alt="counter" /></br>
 
 <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="290">  
 
@@ -6,7 +6,7 @@
 
 ## I'm a Cyber Security Student and Developer!!
 
-- 🌱 I’m currently learning How to Secure Networks
+- I’m currently learning How to Secure Networks
 - Busy in Making and Understanding How Network Topologies work!
 
 
