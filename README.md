@@ -4,10 +4,10 @@
 
 [![Website](https://img.shields.io/website?label=Website_In_Progress&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    
 
-## I'm a Cyber Security Student and a Network Engineer!!
+## I'm a Network Security Student and a Coder!!
 
 - I’m currently learning How to Secure Networks
-- Getting CompTIA Network+!
+- Learning CCNA 200-301!
 
 
 ### Find me on the Web:
