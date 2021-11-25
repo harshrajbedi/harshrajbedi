@@ -6,7 +6,7 @@
 
 ## I'm a Network Security Student and a Coder!!
 
-- I’m currently learning How to Secure Networks
+- Currently diving into the world of Networking!
 - Learning CCNA 200-301!
 
 
