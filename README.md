@@ -4,10 +4,10 @@
 
 [![Website](https://img.shields.io/website?label=Website_In_Progress&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.in)    
 
-## I'm a Network Security Student and a Coder!!
+## I'm a Network Security Student and a Developer!!
 
-- Currently diving into the world of Networking!
-- Learning CCNA 200-301!
+- Currently diving into the world of Networking and Development!
+- Preparing Cisco CCNP ENCOR Certification!
 
 
 ### Find me on the Web:
