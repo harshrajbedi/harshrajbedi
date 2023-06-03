@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=harshbedi.com&style=for-the-badge&url=https%3A%2F%2Fharshbedi.in)](https://harshbedi.com)    
 
-## I'm a Network Security Student and a Developer!!
+## I'm a Cyber Security Professional!
 
 - Currently diving into the world of Networking and Development!
 - Preparing Cisco CCNP ENCOR Certification!
