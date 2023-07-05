@@ -6,8 +6,7 @@
 
 ## I'm a Cyber Security Professional!
 
-- Currently diving into the world of Networking and Development!
-- Preparing Cisco CCNP ENCOR Certification!
+- Hack, Collab, Recon, Bounty!
 
 
 ### Find me on the Web:
